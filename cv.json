@@ -1,0 +1,319 @@
+{
+  "basics": {
+    "name": "Nikolai Cauper",
+    "label": "Estudiante de Ingeníera de Sistemas",
+    "image": "https://avatars.githubusercontent.com/u/108491512?s=400&u=df475088afb2f1cae3adc765582d119a06356f24&v=4",
+    "image2": "https://i.ibb.co/VgRGVM4/cat.jpg",
+    "email": "nikolai.cauper@gmail.com",
+    "phone": "+51 976555916",
+    "url": "",
+    "summary": "Soy una persona con iniciativa, proactiva y creativo. Con alto sentido de responsabilidad y colaboración para el trabajo en equipo, con interés en ganar experiencia y conocimientos practicos",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Tarapoto",
+      "countryCode": "PE",
+      "region": "Perú"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      },
+
+      {
+        "network": "GitHub",
+        "username": "AKAFIRU",
+        "url": "https://github.com/AKAFIRU"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Furious Gaming House",
+      "position": "Tecnico en Computadoras y Redes",
+      "url": "",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "Encargado en ensamblaje, reparación y mantenimiento de computadoras y área de red",
+      "highlights": [""]
+    },
+    {
+      "name": "Freelance",
+      "position": "Desarrollador web",
+      "url": "",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Desarrollo Web con PHP, Java, JavaScript, Node, Angular, haciendo mantenimiento y creando sitios web para Clientes",
+      "highlights": [""]
+    },
+    {
+      "name": "Proyectos Universitarios",
+      "position": "Desarrollador Backend",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Participé en múltiples proyectos universitarios beneficos donde desarrollé habilidades Backend, trabaje con equipos multidisciplinarios para resolver desafíos en entorno de desarrollo rápido y colaborativo",
+      "highlights": [""]
+    },
+    {
+      "name": "Turismo Emprende - Perla Wasi",
+      "position": "Formulador de Proyectos",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "Trabajé en la formulación de un proyecto informático aplicando la guía de los fundamentos de la dirección de proyectos y estándares de calidad con la finalidad de lograr la aprobación del proyecto acorde con la necesidad de la empresa",
+      "highlights": [""]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Peruana Unión",
+      "url": "https://upeu.edu.pe/",
+      "area": "Estudiante de Ingeniería de Sistemas",
+      "studyType": "Estudiante",
+      "startDate": "2021-04-19",
+      "endDate": null,
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Bento-Style Portfolio",
+      "isActive": true,
+      "description": "Portafolio Bento-Style WIP",
+      "highlights": ["En desarrollo"],
+      "github": ""
+    },
+    {
+      "name": "Backend-AYS",
+      "isActive": true,
+      "description": "Backend de proyecto benefico a asentamiento humano AYUSINCHI",
+      "highlights": ["Java"],
+      "github": "https://github.com/AKAFIRU/Backend-AYS"
+    },
+    {
+      "name": "Backend Panaderia",
+      "isActive": true,
+      "description": "Backend PHP de una Panadería",
+      "highlights": ["PHP"],
+      "github": "https://github.com/AKAFIRU/Backend-API-Panaderia"
+    },
+    {
+      "name": "Aplicativo Móvil Bread and Fred",
+      "isActive": true,
+      "description": "Aplicativo Móvil para empresa panadera",
+      "highlights": ["Java"],
+      "url": "https://github.com/AKAFIRU/Aplicativo-movil-panaderia",
+      "github": "https://github.com/AKAFIRU/Aplicativo-movil-panaderia"
+    },
+    {
+      "name": "TelegramBot",
+      "isActive": true,
+      "description": "Bot de Telegram pasantía Codegym",
+      "highlights": ["Java"],
+      "url": "",
+      "github": "https://github.com/AKAFIRU/TelegramBot"
+    }
+  ],
+  "cicle": [
+    {
+      "name": "Ciclo 1",
+      "isActive": true,
+      "description": "Fundamentos de Programación",
+      "highlights": [""],
+      "url": ""
+    },
+    {
+      "name": "Ciclo 2",
+      "isActive": true,
+      "description": "Programación Orientada a Objetos",
+      "highlights": [""],
+      "url": ""
+    },
+    {
+      "name": "Ciclo 3",
+      "isActive": true,
+      "description": [
+        "Administración de Base de datos I",
+        " / ",
+        "Lenguaje de Programación I"
+      ],
+      "highlights": [""],
+      "url": ""
+    },
+    {
+      "name": "Ciclo 4",
+      "isActive": true,
+      "description": [
+        "Lenguaje de Programación II",
+        " / ",
+        "Administración de Base de datos II"
+      ],
+      "highlights": [""],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Ciclo 5",
+      "isActive": true,
+      "description": "Desarrollo de Aplicaciones Distribuidas",
+      "highlights": [""],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Ciclo 6",
+      "description": "Desarrollo de Aplicaciones Móviles",
+      "highlights": [""],
+      "url": ""
+    },
+    {
+      "name": "Ciclo 7",
+      "description": "Pruebas y Despliegue del software",
+      "highlights": [""],
+      "url": ""
+    }
+  ]
+}
