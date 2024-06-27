@@ -17,12 +17,6 @@
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "",
-        "url": ""
-      },
-
-      {
         "network": "GitHub",
         "username": "AKAFIRU",
         "url": "https://github.com/AKAFIRU"
@@ -45,7 +39,7 @@
       "url": "",
       "startDate": "2020",
       "endDate": "2021",
-      "summary": "Desarrollo Web con PHP, Java, JavaScript, Node, Angular, haciendo mantenimiento y creando sitios web para Clientes",
+      "summary": "Desarrollo Web haciendo mantenimiento y creando sitios web para Clientes",
       "highlights": [""]
     },
     {
@@ -125,23 +119,28 @@
       "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
+      "name": "Java",
+      "level": "Basic",
+      "keywords": ["Desarrollo Web", "Backend"]
+    },
+    {
+      "name": "PHP",
+      "level": "Basic",
+      "keywords": ["Desarrollo Web", "Backend"]
+    },
+    {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Basic",
       "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
+      "name": "Angular",
+      "level": "Basic",
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Basic",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -150,13 +149,8 @@
       ]
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-    },
-    {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Intermedio",
       "keywords": [
         "Bases de Datos",
         "SQL",
@@ -178,22 +172,6 @@
         "Código Fuente",
         "Git"
       ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -219,6 +197,22 @@
     }
   ],
   "projects": [
+    {
+      "name": "Backend Aula Virtual",
+      "isActive": true,
+      "description": "Proyecto de Aula Virtual",
+      "highlights": ["En desarrollo"],
+      "url": "",
+      "github": "https://github.com/AKAFIRU/av-backend"
+    },
+    {
+      "name": "Frontend Aula Virtual",
+      "isActive": true,
+      "description": "Proyecto de Aula Virtual",
+      "highlights": ["En desarollo"],
+      "url": "",
+      "github": "https://github.com/AKAFIRU/av-fronted"
+    },
     {
       "name": "Bento-Style Portfolio",
       "isActive": true,
